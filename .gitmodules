@@ -1,3 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "randNames"]
+	path = randNames
+	url = https://github.com/karthik/randnames
+	shallow = true
+[submodule "rdrop2"]
+	path = rdrop2
+	url = https://github.com/karthik/rdrop2
+	shallow = true
+[submodule "wesanderson"]
+	path = wesanderson
+	url = https://github.com/karthik/wesanderson
+	shallow = true
