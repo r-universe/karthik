@@ -2,15 +2,19 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "randNames"]
 	path = randNames
 	url = https://github.com/karthik/randnames
 	shallow = true
+	branch = HEAD
 [submodule "rdrop2"]
 	path = rdrop2
 	url = https://github.com/karthik/rdrop2
 	shallow = true
+	branch = HEAD
 [submodule "wesanderson"]
 	path = wesanderson
 	url = https://github.com/karthik/wesanderson
 	shallow = true
+	branch = HEAD
