@@ -1,0 +1,14 @@
+[
+  {
+    "package": "randNames",
+    "oncran": true
+  },
+  {
+    "package": "rdrop2",
+    "oncran": true
+  },
+  {
+    "package": "wesanderson",
+    "oncran": true
+  }
+]
