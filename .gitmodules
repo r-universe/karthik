@@ -8,13 +8,16 @@
 	url = https://github.com/karthik/randnames
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rdrop2"]
 	path = rdrop2
 	url = https://github.com/karthik/rdrop2
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "wesanderson"]
 	path = wesanderson
 	url = https://github.com/karthik/wesanderson
 	shallow = true
 	registered = true
+	oncran = true
