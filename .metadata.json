@@ -1,9 +1,5 @@
 [
   {
-    "package": "randNames",
-    "oncran": true
-  },
-  {
     "package": "rdrop2",
     "oncran": true
   },
